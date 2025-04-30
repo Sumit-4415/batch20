@@ -1,5 +1,12 @@
 i am psi........sumit
 
+<<<<<<< Updated upstream
 new name//
 dysp
 
+=======
+
+
+old name//
+assistant psi
+>>>>>>> Stashed changes
